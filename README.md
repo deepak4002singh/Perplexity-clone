@@ -292,12 +292,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [shadcn/ui](https://ui.shadcn.com) - UI component library
 - [Tailwind CSS](https://tailwindcss.com) - Styling framework
 
-## 📞 Contact & Links
+## 📞 Contact 
 
-- **Developer**: [Karan](https://github.com/karan0838)
-- **Live Demo**: [https://perplexiity-clone.vercel.app/](https://perplexiity-clone.vercel.app/)
-- **GitHub Repository**: [https://github.com/karan0838/perplexity-ai-clone](https://github.com/karan0838/perplexity-ai-clone)
+- **Developer**: [Deepak singh]
 
----
-
-**Made with ❤️ by Karan | Star ⭐ this repo if you found it helpful!**
+**Made with ❤️ by Deepak singh| Star ⭐ this repo if you found it helpful!**
